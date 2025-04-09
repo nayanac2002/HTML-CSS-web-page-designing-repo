@@ -33,12 +33,17 @@ Through this webpage, our goal is to preserve and promote our village's spirit, 
 The Village Webpage offers several features that allow you to experience our village digitally. Some of the key features include:
 
 1.Village Stories 📖: This section contains heartfelt and inspiring stories from local residents. Learn about their experiences, traditions, and memories that have shaped the village as it is today. Share your own stories and connect with others who are part of this wonderful place.
+![Screenshot (7)](https://github.com/user-attachments/assets/e7c7c8c0-d1c1-4ca4-afe0-fc914ddca07b)
 
 2.Events Calendar 📅: Stay updated on the events happening in and around the village. From weekly markets to annual festivals, this calendar will keep you informed about all the local happenings. Whether it's a celebration, a fair, or a community get-together, you'll never miss out on what’s going on.
 
 3.Local Directory 📍: The local directory offers a comprehensive list of village businesses, artisans, services, and shops. Whether you’re looking for a local craftsman, a cozy café, or any essential services, this section will guide you through the best our village has to offer.
 
 4.Photo Gallery 📸: A picture is worth a thousand words, and in this gallery, you will find beautiful images capturing the essence of our village. From scenic landscapes to moments of everyday life, the gallery provides a visual tour of our rural paradise.
+![Screenshot (5)](https://github.com/user-attachments/assets/f0558e76-fee7-4abf-9d42-1300e2bebf61)
+![Screenshot (8)](https://github.com/user-attachments/assets/144b96bd-a4cd-4584-9492-982bbb1dfc81)
+![Screenshot (7)](https://github.com/user-attachments/assets/ad92af1f-6f86-4bee-a9e2-f8510374f677)
+![Screenshot (6)](https://github.com/user-attachments/assets/c17340d7-24e1-45c5-b4c5-ca4235c2ad8b)
 
 5.Cultural Insights 🎭: Dive deep into the heart of our village’s culture. Learn about the local traditions, customs, and festivals that define who we are. Explore our folk arts, music, dances, and more. This section aims to keep the cultural heritage of our village alive for generations to come.
 
