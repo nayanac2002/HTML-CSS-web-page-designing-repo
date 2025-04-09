@@ -1,0 +1,29 @@
+h2{
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+
+div{
+    text-transform: uppercase;
+    transition: 0.3s;
+    font-weight: 50px;
+    padding: 20px;
+    margin: 30px;
+    background-color: white;
+}
+
+img{
+   
+    align-items: baseline;
+}
+
+body{
+    background-image: url(../image/image.png);
+    background-repeat:inherit;
+}
+
+h1{
+    text-align: center;
+    background-color: green;
+}
